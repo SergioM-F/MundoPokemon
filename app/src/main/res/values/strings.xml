@@ -2,4 +2,8 @@
     <string name="app_name">Mundo Pokemon</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">todo</string>
+    <string name="textview">TextView</string>
+    <string name="todo2">TODO</string>
+    <string name="by_dev_samf">By Dev-Samf</string>
 </resources>
